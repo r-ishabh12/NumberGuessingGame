@@ -12,17 +12,20 @@ A simple number guessing game where the player tries to guess a randomly generat
 
 ## Installation
 1.**Clone the repository**
-'''bash
+```bash
 git clone https://github.com/r-ishabh12/NumberGuessingGaame.git
 cd NumberGuessingGame
+```
 
 2.**Compile the JAVA file
-'''bash
+```bash
 javac Main.java
+```
 
 3.**Run the game**
-'''bash
+```bash
 java Main
+```
 
 ---
 
