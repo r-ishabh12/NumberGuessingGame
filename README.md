@@ -30,3 +30,7 @@ java Main
 ---
 
 Make sure to check the java is insatlled using java -version
+
+---
+## Acknowledgement
+- Project idea taken from(https://roadmap.sh/projects/number-guessing-game)
